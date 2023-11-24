@@ -1,0 +1,14 @@
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\bin\Debug\net8.0\Uppgift 1 Reduplikation.exe
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\bin\Debug\net8.0\Uppgift 1 Reduplikation.deps.json
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\bin\Debug\net8.0\Uppgift 1 Reduplikation.runtimeconfig.json
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\bin\Debug\net8.0\Uppgift 1 Reduplikation.dll
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\bin\Debug\net8.0\Uppgift 1 Reduplikation.pdb
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\obj\Debug\net8.0\Uppgift 1 Reduplikation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\obj\Debug\net8.0\Uppgift 1 Reduplikation.AssemblyInfoInputs.cache
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\obj\Debug\net8.0\Uppgift 1 Reduplikation.AssemblyInfo.cs
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\obj\Debug\net8.0\Uppgift 1 Reduplikation.csproj.CoreCompileInputs.cache
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\obj\Debug\net8.0\Uppgift 1 Reduplikation.dll
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\obj\Debug\net8.0\refint\Uppgift 1 Reduplikation.dll
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\obj\Debug\net8.0\Uppgift 1 Reduplikation.pdb
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\obj\Debug\net8.0\Uppgift 1 Reduplikation.genruntimeconfig.cache
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift 1 Reduplikation\Uppgift 1 Reduplikation\obj\Debug\net8.0\ref\Uppgift 1 Reduplikation.dll

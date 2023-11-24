@@ -1,0 +1,14 @@
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\bin\Debug\net8.0\Uppgift-3-Meddelande.exe
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\bin\Debug\net8.0\Uppgift-3-Meddelande.deps.json
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\bin\Debug\net8.0\Uppgift-3-Meddelande.runtimeconfig.json
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\bin\Debug\net8.0\Uppgift-3-Meddelande.dll
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\bin\Debug\net8.0\Uppgift-3-Meddelande.pdb
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\obj\Debug\net8.0\Uppgift-3-Meddelande.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\obj\Debug\net8.0\Uppgift-3-Meddelande.AssemblyInfoInputs.cache
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\obj\Debug\net8.0\Uppgift-3-Meddelande.AssemblyInfo.cs
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\obj\Debug\net8.0\Uppgift-3-Meddelande.csproj.CoreCompileInputs.cache
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\obj\Debug\net8.0\Uppgift-3-Meddelande.dll
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\obj\Debug\net8.0\refint\Uppgift-3-Meddelande.dll
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\obj\Debug\net8.0\Uppgift-3-Meddelande.pdb
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\obj\Debug\net8.0\Uppgift-3-Meddelande.genruntimeconfig.cache
+C:\Users\losc06001\Documents\GitHub\Programmerings-Olympiaden2023\Uppgift-3-Meddelande\Uppgift-3-Meddelande\obj\Debug\net8.0\ref\Uppgift-3-Meddelande.dll
